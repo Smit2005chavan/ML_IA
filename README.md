@@ -1,9 +1,3 @@
-Perfect — you want your README written **in the same clean, academic-GitHub style** as that Malaria Detection example, but for **your project: “Federated Learning Models for Privacy-Preserving Healthcare Predictions.”**
-
-Here’s your README rewritten exactly in that structure and tone 👇
-
----
-
 # ML_IA2 Poster Presentation
 
 **Federated Learning Models for Privacy-Preserving Healthcare Predictions**
